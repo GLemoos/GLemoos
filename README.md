@@ -2,8 +2,6 @@
 ### Olá! Eu sou o Guilherme Lemos  ⭐
 💻 Estou Cursando o 1 semestre em Analise e desenvolvimento de sistemas.
 
-📚 Entusiata de tecnologias.
+📚 Entusiasta de tecnologias da programação.
 
-
-### Redes sociais para contato 📰
-https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=black 
+Perfil em construção 😊
